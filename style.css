@@ -6,10 +6,11 @@
     color: white;
 }
 aside{
-  height: 641px;
+  height: 600px;
   width: 30%;
   background: #0c1317;
 }
+
 .parent{
     display: flex;
     justify-content: space-between;
@@ -269,9 +270,48 @@ aside{
     color: #00a884;
     margin-top: -10px;
 }
-.parent-2{
-    display: flex;
-    width: 100%;
-    height: 100vh;
-    border: 1px solid black;
+#parent-2{
+   justify-content: center;
+  width: 70%;
+  height: 600px;
+  left: 30%;
+  position: absolute;
+  top: 0;
+  background-image: url(images/WhatsApp\ Image\ 2024-01-29\ at\ 5.22.54\ AM.jpeg);
+}
+
+.child-1 img{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin-top: 10px; 
+    margin-left: 20px;
+}
+.child-1 h3{
+    top: 0;
+    position: absolute;
+    left: 65px;
+    margin-top: 6px;
+    font-weight: lighter;
+}
+.child-1 p{
+    font-size: 14px;
+}
+.child-2 i{
+   position: absolute;
+margin-left: 680px;
+   top: 0;
+   padding: 10px;
+}
+.child-3 i{
+    position: absolute;
+    margin-left: 740px;
+       top: 0;
+       padding: 10px;
+}
+.child-4 i{
+    position: absolute;
+    margin-left: 800px;
+       top: 0;
+       padding: 10px;
 }
