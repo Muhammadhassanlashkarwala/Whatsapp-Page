@@ -80,6 +80,27 @@ aside{
     align-items: center;
  /* border-bottom: 1px solid #838383; */
 }
+.text-1 h4{
+    font-weight:lighter ;
+}
+.text-2 h4{
+    font-weight:lighter ;
+}
+.text-3 h4{
+    font-weight:lighter ;
+}
+.text-4 h4{
+    font-weight:lighter ;
+}
+.text-5 h4{
+    font-weight:lighter ;
+}
+.text-6 h4{
+    font-weight:lighter ;
+}
+.text-7 h4{
+    font-weight:lighter ;
+}
 .text-1 img{
     width: 30px;
     height: 30px;
