@@ -93,7 +93,7 @@ aside{
     font-weight: lighter;
 }
 .text-1 .iliii{
-    margin-left: 190px;
+    margin-left: 177px;
     color: #00a884;
     margin-top: -10px;
 }
@@ -165,7 +165,7 @@ aside{
     font-weight: lighter;
 }
 .text-3 .iliii{
-    margin-left: 170px;
+    margin-left: 160px;
     color: #00a884;
     margin-top: -10px;
 }
@@ -190,7 +190,7 @@ aside{
     font-weight: lighter;
 }
 .text-4 .iliii{
-    margin-left: 170px;
+    margin-left: 165px;
     color: #00a884;
     margin-top: -10px;
 }
@@ -215,7 +215,7 @@ aside{
     font-weight: lighter;
 }
 .text-5 .iliii{
-    margin-left: 170px;
+    margin-left: 160px;
     color: #00a884;
     margin-top: -10px;
 }
@@ -240,7 +240,7 @@ aside{
     font-weight: lighter;
 }
 .text-6 .iliii{
-    margin-left: 170px;
+    margin-left: 160px;
     color: #00a884;
     margin-top: -10px;
 }
@@ -266,7 +266,7 @@ aside{
     font-weight: lighter;
 }
 .text-7 .iliii{
-    margin-left: 170px;
+    margin-left: 160px;
     color: #00a884;
     margin-top: -10px;
 }
@@ -314,4 +314,24 @@ margin-left: 680px;
     margin-left: 800px;
        top: 0;
        padding: 10px;
+}
+#parent-3{
+    position: absolute;
+    bottom: 0;
+}
+#parent-3 input{
+    padding: 10px 15px;
+    width: 790px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    background: #202c33;
+    font-size: small;
+    margin-bottom: 5px;
+}
+#parent-3 input::placeholder {
+    color: #ccc;
+}
+#parent-3 i{
+    margin-left: 10px;
 }
